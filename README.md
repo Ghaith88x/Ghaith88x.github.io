@@ -53,9 +53,14 @@
         <p>With My freinds.</p>
         
         <h2 id="program1st">First program</h2>
-        <h6>Posted on 24/10/2015</h6>
+        <h6>Posted on 8/9/2015</h6>
         
         <p>A cool program. What are your thoughts?</p>
+        
+        <h2> My Gaming Channel</h2>
+        <h6>Posted on 13/9/2015</h6>
+        
+        <p> Here is my gaming Channel www.gaming.com/Ghaith88x </p>
         
         
     </body>
